@@ -509,7 +509,7 @@ body::-webkit-scrollbar {
     display: flex;
     white-space: nowrap;
     /* background-color: royalblue; */
-    padding: 60px 0;
+    padding: 20px 0;
     overflow: hidden;
   }
   #bottom {
